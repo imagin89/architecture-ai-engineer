@@ -26,6 +26,8 @@ Without that preparation, the cycle of building, discovering the wrong outcome, 
 
 **What if building software with agentic AI worked more like constructing a building?**
 
+![Alt text](images/arch2bot.png)
+
 The customer begins with a purpose. An architect helps translate that purpose into a design. Designers shape how people will experience the space. Engineers establish whether the design can support its intended loads, connect to essential systems, and operate reliably. The team considers the site, available utilities, and applicable building and zoning requirements.
 
 A general contractor coordinates construction. Specialist crews carry out the work. Inspections establish whether the result meets the agreed requirements.
