@@ -16,6 +16,8 @@ The faster the crew builds, the sooner an unanswered question becomes a wall in 
 
 AI can create the same effect in software while faithfully following our instructions. A team specifies a workflow, agents implement it, and the checks confirm that it behaves as requested. Only when stakeholders see the completed experience do they realize that the workflow does not fit how customers actually work. The team must revise the design, dismantle affected implementation, rebuild, and validate again.
 
+![Alt text](images/mistake.png)
+
 Slower implementation can leave time for questions, conversations, and discoveries while work is still taking shape. When agents compress construction, that opportunity can shrink. A feature may be finished before the next conversation that would have changed its design. We can no longer rely on implementation time to provide enough room to think through what we should build.
 
 **The faster AI can build, the more important it becomes to validate what we are asking it to build before construction begins.**
@@ -26,7 +28,7 @@ Without that preparation, the cycle of building, discovering the wrong outcome, 
 
 **What if building software with agentic AI worked more like constructing a building?**
 
-![Alt text](images/arch2bot.png)
+![Alt text](images/arch2bots.png)
 
 The customer begins with a purpose. An architect helps translate that purpose into a design. Designers shape how people will experience the space. Engineers establish whether the design can support its intended loads, connect to essential systems, and operate reliably. The team considers the site, available utilities, and applicable building and zoning requirements.
 
@@ -95,6 +97,8 @@ The people who made the decision have moved on. The current drawing shows the be
 Now imagine a living blueprint that links the original wall, the renovation request, the engineering decision, the revised support design, and the inspection record. An AI agent could quickly retrieve that history and explain: “This beam was introduced when the wall was removed. It carries a load that the original wall supported. Changing it requires a revised support design.”
 
 The agent could identify affected elements and help engineers explore alternatives. Engineers would still validate the current conditions and any proposed structural change.
+
+![Alt text](images/beam.png)
 
 Software is full of equivalent beams: an awkward data boundary, an extra processing step, a compatibility layer, a queue that seems unnecessary. Each may exist because of a constraint that is no longer obvious.
 
